@@ -1,6 +1,5 @@
 import streamlit as st
 import requests
-import pandas as pd
 
 BACKEND_URL = "https://shl-assessment-recommender-production-75df.up.railway.app/chat"
 
